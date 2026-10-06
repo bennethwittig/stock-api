@@ -1,0 +1,8 @@
+{
+  "model": "LinearRegression on lag_1 and lag_2",
+  "trained_on": "TSLA daily close",
+  "data_from": "2010-07-02",
+  "data_to": "2022-12-29",
+  "test_rmse_model": 9.79,
+  "test_rmse_naive": 9.75
+}
