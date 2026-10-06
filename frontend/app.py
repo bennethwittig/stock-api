@@ -8,7 +8,7 @@ st.write("Enter a stock ticker to get the model's prediction for the next closin
 
 # 1. Base URL for your deployed Render API (replace with your actual Render URL)
 # Note: Ensure there are no spaces or extra dashes in the URL
-api_url = "https://your-service.onrender.com"
+api_url = "https://stock-api-z350.onrender.com"
 
 # 2. User Input
 symbol = st.text_input("Stock symbol", "TSLA").upper().strip()
